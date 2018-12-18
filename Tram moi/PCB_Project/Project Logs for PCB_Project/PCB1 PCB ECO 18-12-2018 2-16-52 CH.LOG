@@ -1,0 +1,64 @@
+Added Component: Designator=D1(SMC)
+Added Component: Designator=D2(SMC)
+Added Component: Designator=D3(SMC)
+Added Component: Designator=D4(SMC)
+Added Component: Designator=D5(SMC)
+Added Component: Designator=D6(SMC)
+Added Component: Designator=D7(SMC)
+Added Component: Designator=D8(SMC)
+Added Component: Designator=D9(SMC)
+Added Component: Designator=D10(SMC)
+Added Component: Designator=D11(SMC)
+Added Component: Designator=D12(SMC)
+Added Component: Designator=D13(SMC)
+Added Component: Designator=D14(SMC)
+Added Component: Designator=D15(SMC)
+Added Component: Designator=D16(SMC)
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=DD1 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=DD2 Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=DD3 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=DD4 Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=DD5 Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=DD6 Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D7-1
+Added Pin To Net: NetName=DD7 Pin=D7-2
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=DD8 Pin=D8-2
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=DD9 Pin=D9-2
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=DD10 Pin=D10-2
+Added Pin To Net: NetName=GND Pin=D11-1
+Added Pin To Net: NetName=DD11 Pin=D11-2
+Added Pin To Net: NetName=GND Pin=D12-1
+Added Pin To Net: NetName=DD12 Pin=D12-2
+Added Pin To Net: NetName=GND Pin=D13-1
+Added Pin To Net: NetName=DD13 Pin=D13-2
+Added Pin To Net: NetName=GND Pin=D14-1
+Added Pin To Net: NetName=DD14 Pin=D14-2
+Added Pin To Net: NetName=GND Pin=D15-1
+Added Pin To Net: NetName=DD15 Pin=D15-2
+Added Pin To Net: NetName=GND Pin=D16-1
+Added Pin To Net: NetName=DD16 Pin=D16-2
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D2 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D3 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D4 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D5 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D6 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D7 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D8 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D9 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D10 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D11 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D12 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D13 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D14 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D15 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D16 Diode
