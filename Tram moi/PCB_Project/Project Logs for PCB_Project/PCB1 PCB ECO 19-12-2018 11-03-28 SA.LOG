@@ -1,0 +1,160 @@
+Removed Pin From Net: NetName=NC1 Pin=RELAY1-2
+Removed Pin From Net: NetName=NetRELAY1_3 Pin=RELAY1-3
+Removed Pin From Net: NetName=NetRELAY1_3 Pin=RELAY1-8
+Removed Pin From Net: NetName=COM1 Pin=RELAY1-9
+Removed Pin From Net: NetName=NC2 Pin=RELAY2-2
+Removed Pin From Net: NetName=NetRELAY2_3 Pin=RELAY2-3
+Removed Pin From Net: NetName=NetRELAY2_3 Pin=RELAY2-8
+Removed Pin From Net: NetName=COM2 Pin=RELAY2-9
+Removed Pin From Net: NetName=NC3 Pin=RELAY3-2
+Removed Pin From Net: NetName=NetRELAY3_3 Pin=RELAY3-3
+Removed Pin From Net: NetName=NetRELAY3_3 Pin=RELAY3-8
+Removed Pin From Net: NetName=COM3 Pin=RELAY3-9
+Removed Pin From Net: NetName=NC4 Pin=RELAY4-2
+Removed Pin From Net: NetName=NetRELAY4_3 Pin=RELAY4-3
+Removed Pin From Net: NetName=NetRELAY4_3 Pin=RELAY4-8
+Removed Pin From Net: NetName=COM4 Pin=RELAY4-9
+Removed Pin From Net: NetName=NC5 Pin=RELAY5-2
+Removed Pin From Net: NetName=NetRELAY5_3 Pin=RELAY5-3
+Removed Pin From Net: NetName=NetRELAY5_3 Pin=RELAY5-8
+Removed Pin From Net: NetName=COM5 Pin=RELAY5-9
+Removed Pin From Net: NetName=NC6 Pin=RELAY6-2
+Removed Pin From Net: NetName=NetRELAY6_3 Pin=RELAY6-3
+Removed Pin From Net: NetName=NetRELAY6_3 Pin=RELAY6-8
+Removed Pin From Net: NetName=COM6 Pin=RELAY6-9
+Removed Pin From Net: NetName=NC7 Pin=RELAY7-2
+Removed Pin From Net: NetName=NetRELAY7_3 Pin=RELAY7-3
+Removed Pin From Net: NetName=NetRELAY7_3 Pin=RELAY7-8
+Removed Pin From Net: NetName=COM7 Pin=RELAY7-9
+Removed Pin From Net: NetName=NC8 Pin=RELAY8-2
+Removed Pin From Net: NetName=NetRELAY8_3 Pin=RELAY8-3
+Removed Pin From Net: NetName=NetRELAY8_3 Pin=RELAY8-8
+Removed Pin From Net: NetName=COM8 Pin=RELAY8-9
+Removed Pin From Net: NetName=NC9 Pin=RELAY9-2
+Removed Pin From Net: NetName=NetRELAY9_3 Pin=RELAY9-3
+Removed Pin From Net: NetName=NetRELAY9_3 Pin=RELAY9-8
+Removed Pin From Net: NetName=COM9 Pin=RELAY9-9
+Removed Pin From Net: NetName=NC10 Pin=RELAY10-2
+Removed Pin From Net: NetName=NetRELAY10_3 Pin=RELAY10-3
+Removed Pin From Net: NetName=NetRELAY10_3 Pin=RELAY10-8
+Removed Pin From Net: NetName=COM10 Pin=RELAY10-9
+Removed Pin From Net: NetName=NC11 Pin=RELAY11-2
+Removed Pin From Net: NetName=NetRELAY11_3 Pin=RELAY11-3
+Removed Pin From Net: NetName=NetRELAY11_3 Pin=RELAY11-8
+Removed Pin From Net: NetName=COM11 Pin=RELAY11-9
+Removed Pin From Net: NetName=NC12 Pin=RELAY12-2
+Removed Pin From Net: NetName=NetRELAY12_3 Pin=RELAY12-3
+Removed Pin From Net: NetName=NetRELAY12_3 Pin=RELAY12-8
+Removed Pin From Net: NetName=COM12 Pin=RELAY12-9
+Removed Pin From Net: NetName=NC13 Pin=RELAY13-2
+Removed Pin From Net: NetName=NetRELAY13_3 Pin=RELAY13-3
+Removed Pin From Net: NetName=NetRELAY13_3 Pin=RELAY13-8
+Removed Pin From Net: NetName=COM13 Pin=RELAY13-9
+Removed Pin From Net: NetName=NC14 Pin=RELAY14-2
+Removed Pin From Net: NetName=NetRELAY14_3 Pin=RELAY14-3
+Removed Pin From Net: NetName=NetRELAY14_3 Pin=RELAY14-8
+Removed Pin From Net: NetName=COM14 Pin=RELAY14-9
+Removed Pin From Net: NetName=NC15 Pin=RELAY15-2
+Removed Pin From Net: NetName=NetRELAY15_3 Pin=RELAY15-3
+Removed Pin From Net: NetName=NetRELAY15_3 Pin=RELAY15-8
+Removed Pin From Net: NetName=COM15 Pin=RELAY15-9
+Removed Pin From Net: NetName=NC16 Pin=RELAY16-2
+Removed Pin From Net: NetName=NetRELAY16_3 Pin=RELAY16-3
+Removed Pin From Net: NetName=NetRELAY16_3 Pin=RELAY16-8
+Removed Pin From Net: NetName=COM16 Pin=RELAY16-9
+Change Component Footprint: Designator=D1 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D2 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D3 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D4 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D5 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D6 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D7 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D8 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D9 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D10 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D11 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D12 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D13 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D14 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D15 Old Footprint=SMB New Footprint=SMC
+Change Component Footprint: Designator=D16 Old Footprint=SMB New Footprint=SMC
+Added Pin To Net: NetName=NetRELAY1_3 Pin=RELAY1-2
+Added Pin To Net: NetName=NC1 Pin=RELAY1-3
+Added Pin To Net: NetName=COM1 Pin=RELAY1-8
+Added Pin To Net: NetName=NetRELAY1_3 Pin=RELAY1-9
+Added Pin To Net: NetName=NetRELAY2_3 Pin=RELAY2-2
+Added Pin To Net: NetName=NC2 Pin=RELAY2-3
+Added Pin To Net: NetName=COM2 Pin=RELAY2-8
+Added Pin To Net: NetName=NetRELAY2_3 Pin=RELAY2-9
+Added Pin To Net: NetName=NetRELAY3_3 Pin=RELAY3-2
+Added Pin To Net: NetName=NC3 Pin=RELAY3-3
+Added Pin To Net: NetName=COM3 Pin=RELAY3-8
+Added Pin To Net: NetName=NetRELAY3_3 Pin=RELAY3-9
+Added Pin To Net: NetName=NetRELAY4_3 Pin=RELAY4-2
+Added Pin To Net: NetName=NC4 Pin=RELAY4-3
+Added Pin To Net: NetName=COM4 Pin=RELAY4-8
+Added Pin To Net: NetName=NetRELAY4_3 Pin=RELAY4-9
+Added Pin To Net: NetName=NetRELAY5_3 Pin=RELAY5-2
+Added Pin To Net: NetName=NC5 Pin=RELAY5-3
+Added Pin To Net: NetName=COM5 Pin=RELAY5-8
+Added Pin To Net: NetName=NetRELAY5_3 Pin=RELAY5-9
+Added Pin To Net: NetName=NetRELAY6_3 Pin=RELAY6-2
+Added Pin To Net: NetName=NC6 Pin=RELAY6-3
+Added Pin To Net: NetName=COM6 Pin=RELAY6-8
+Added Pin To Net: NetName=NetRELAY6_3 Pin=RELAY6-9
+Added Pin To Net: NetName=NetRELAY7_3 Pin=RELAY7-2
+Added Pin To Net: NetName=NC7 Pin=RELAY7-3
+Added Pin To Net: NetName=COM7 Pin=RELAY7-8
+Added Pin To Net: NetName=NetRELAY7_3 Pin=RELAY7-9
+Added Pin To Net: NetName=NetRELAY8_3 Pin=RELAY8-2
+Added Pin To Net: NetName=NC8 Pin=RELAY8-3
+Added Pin To Net: NetName=COM8 Pin=RELAY8-8
+Added Pin To Net: NetName=NetRELAY8_3 Pin=RELAY8-9
+Added Pin To Net: NetName=NetRELAY9_3 Pin=RELAY9-2
+Added Pin To Net: NetName=NC9 Pin=RELAY9-3
+Added Pin To Net: NetName=COM9 Pin=RELAY9-8
+Added Pin To Net: NetName=NetRELAY9_3 Pin=RELAY9-9
+Added Pin To Net: NetName=NetRELAY10_3 Pin=RELAY10-2
+Added Pin To Net: NetName=NC10 Pin=RELAY10-3
+Added Pin To Net: NetName=COM10 Pin=RELAY10-8
+Added Pin To Net: NetName=NetRELAY10_3 Pin=RELAY10-9
+Added Pin To Net: NetName=NetRELAY11_3 Pin=RELAY11-2
+Added Pin To Net: NetName=NC11 Pin=RELAY11-3
+Added Pin To Net: NetName=COM11 Pin=RELAY11-8
+Added Pin To Net: NetName=NetRELAY11_3 Pin=RELAY11-9
+Added Pin To Net: NetName=NetRELAY12_3 Pin=RELAY12-2
+Added Pin To Net: NetName=NC12 Pin=RELAY12-3
+Added Pin To Net: NetName=COM12 Pin=RELAY12-8
+Added Pin To Net: NetName=NetRELAY12_3 Pin=RELAY12-9
+Added Pin To Net: NetName=NetRELAY13_3 Pin=RELAY13-2
+Added Pin To Net: NetName=NC13 Pin=RELAY13-3
+Added Pin To Net: NetName=COM13 Pin=RELAY13-8
+Added Pin To Net: NetName=NetRELAY13_3 Pin=RELAY13-9
+Added Pin To Net: NetName=NetRELAY14_3 Pin=RELAY14-2
+Added Pin To Net: NetName=NC14 Pin=RELAY14-3
+Added Pin To Net: NetName=COM14 Pin=RELAY14-8
+Added Pin To Net: NetName=NetRELAY14_3 Pin=RELAY14-9
+Added Pin To Net: NetName=NetRELAY15_3 Pin=RELAY15-2
+Added Pin To Net: NetName=NC15 Pin=RELAY15-3
+Added Pin To Net: NetName=COM15 Pin=RELAY15-8
+Added Pin To Net: NetName=NetRELAY15_3 Pin=RELAY15-9
+Added Pin To Net: NetName=NetRELAY16_3 Pin=RELAY16-2
+Added Pin To Net: NetName=NC16 Pin=RELAY16-3
+Added Pin To Net: NetName=COM16 Pin=RELAY16-8
+Added Pin To Net: NetName=NetRELAY16_3 Pin=RELAY16-9
+Change Net Name : Old Net Name=NetRELAY1_3 New Net Name=NetRELAY1_2
+Change Net Name : Old Net Name=NetRELAY2_3 New Net Name=NetRELAY2_2
+Change Net Name : Old Net Name=NetRELAY3_3 New Net Name=NetRELAY3_2
+Change Net Name : Old Net Name=NetRELAY4_3 New Net Name=NetRELAY4_2
+Change Net Name : Old Net Name=NetRELAY5_3 New Net Name=NetRELAY5_2
+Change Net Name : Old Net Name=NetRELAY6_3 New Net Name=NetRELAY6_2
+Change Net Name : Old Net Name=NetRELAY7_3 New Net Name=NetRELAY7_2
+Change Net Name : Old Net Name=NetRELAY8_3 New Net Name=NetRELAY8_2
+Change Net Name : Old Net Name=NetRELAY9_3 New Net Name=NetRELAY9_2
+Change Net Name : Old Net Name=NetRELAY10_3 New Net Name=NetRELAY10_2
+Change Net Name : Old Net Name=NetRELAY11_3 New Net Name=NetRELAY11_2
+Change Net Name : Old Net Name=NetRELAY12_3 New Net Name=NetRELAY12_2
+Change Net Name : Old Net Name=NetRELAY13_3 New Net Name=NetRELAY13_2
+Change Net Name : Old Net Name=NetRELAY14_3 New Net Name=NetRELAY14_2
+Change Net Name : Old Net Name=NetRELAY15_3 New Net Name=NetRELAY15_2
+Change Net Name : Old Net Name=NetRELAY16_3 New Net Name=NetRELAY16_2

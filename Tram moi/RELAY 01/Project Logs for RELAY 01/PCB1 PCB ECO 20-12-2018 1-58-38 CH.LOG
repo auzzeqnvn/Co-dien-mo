@@ -1,0 +1,64 @@
+Added Component: Designator=RELAY1(RY-Series)
+Added Component: Designator=RELAY2(RY-Series)
+Added Component: Designator=RELAY3(RY-Series)
+Added Component: Designator=RELAY4(RY-Series)
+Added Component: Designator=RELAY5(RY-Series)
+Added Component: Designator=RELAY6(RY-Series)
+Added Component: Designator=RELAY7(RY-Series)
+Added Component: Designator=RELAY8(RY-Series)
+Added Component: Designator=RELAY9(RY-Series)
+Added Component: Designator=RELAY10(RY-Series)
+Added Component: Designator=RELAY11(RY-Series)
+Added Component: Designator=RELAY12(RY-Series)
+Added Component: Designator=RELAY13(RY-Series)
+Added Component: Designator=RELAY14(RY-Series)
+Added Component: Designator=RELAY15(RY-Series)
+Added Component: Designator=RELAY16(RY-Series)
+Added Pin To Net: NetName=NetRELAY1_1 Pin=RELAY1-1
+Added Pin To Net: NetName=NetP5_2 Pin=RELAY1-3
+Added Pin To Net: NetName=NetRELAY2_1 Pin=RELAY2-1
+Added Pin To Net: NetName=NetP5_4 Pin=RELAY2-3
+Added Pin To Net: NetName=NetRELAY3_1 Pin=RELAY3-1
+Added Pin To Net: NetName=NetP6_2 Pin=RELAY3-3
+Added Pin To Net: NetName=NetRELAY4_1 Pin=RELAY4-1
+Added Pin To Net: NetName=NetP6_4 Pin=RELAY4-3
+Added Pin To Net: NetName=NetRELAY5_1 Pin=RELAY5-1
+Added Pin To Net: NetName=NetP7_2 Pin=RELAY5-3
+Added Pin To Net: NetName=NetRELAY6_1 Pin=RELAY6-1
+Added Pin To Net: NetName=NetP7_4 Pin=RELAY6-3
+Added Pin To Net: NetName=NetRELAY7_1 Pin=RELAY7-1
+Added Pin To Net: NetName=NetP11_2 Pin=RELAY7-4
+Added Pin To Net: NetName=NetRELAY8_1 Pin=RELAY8-1
+Added Pin To Net: NetName=NetP11_4 Pin=RELAY8-4
+Added Pin To Net: NetName=NetRELAY9_1 Pin=RELAY9-1
+Added Pin To Net: NetName=NetP12_2 Pin=RELAY9-4
+Added Pin To Net: NetName=NetRELAY10_1 Pin=RELAY10-1
+Added Pin To Net: NetName=NetP12_4 Pin=RELAY10-4
+Added Pin To Net: NetName=NetRELAY11_1 Pin=RELAY11-1
+Added Pin To Net: NetName=NetP13_2 Pin=RELAY11-4
+Added Pin To Net: NetName=NetRELAY12_1 Pin=RELAY12-1
+Added Pin To Net: NetName=NetP13_4 Pin=RELAY12-4
+Added Pin To Net: NetName=NetRELAY13_1 Pin=RELAY13-1
+Added Pin To Net: NetName=NetP16_2 Pin=RELAY13-3
+Added Pin To Net: NetName=NetRELAY14_1 Pin=RELAY14-1
+Added Pin To Net: NetName=NetP16_4 Pin=RELAY14-3
+Added Pin To Net: NetName=NetRELAY15_1 Pin=RELAY15-1
+Added Pin To Net: NetName=NetP17_2 Pin=RELAY15-3
+Added Pin To Net: NetName=NetRELAY16_1 Pin=RELAY16-1
+Added Pin To Net: NetName=NetP17_4 Pin=RELAY16-3
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY1 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY2 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY3 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY4 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY5 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY6 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY7 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY8 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY9 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY10 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY11 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY12 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY13 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY14 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY15 RY12W-K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY16 RY12W-K
