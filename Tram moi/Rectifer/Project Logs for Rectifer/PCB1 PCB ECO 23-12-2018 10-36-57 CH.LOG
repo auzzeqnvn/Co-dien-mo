@@ -1,0 +1,13 @@
+Added Component: Designator=D1(KBU1010)
+Added Component: Designator=D4(KBP206)
+Added Pin To Net: NetName=NetC1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_4 Pin=D1-3
+Added Pin To Net: NetName=GND Pin=D1-4
+Added Pin To Net: NetName=NetC6_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetC6_2 Pin=D4-3
+Added Pin To Net: NetName=NetC6_2 Pin=D4-4
+Change Net Name : Old Net Name=NetD1_4 New Net Name=NetD1_3
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Bridge2
+Added Member To Class: ClassName=Sheet1 Member=Component D4 Bridge2

@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=DP1 Pin=P6-1
+Removed Pin From Net: NetName=GND Pin=P6-2
+Removed Pin From Net: NetName=TC1 Pin=P7-1
+Removed Pin From Net: NetName=RC1 Pin=P7-2
+Removed Pin From Net: NetName=GND Pin=P8-1
+Removed Pin From Net: NetName=DP3 Pin=P8-2
+Removed Pin From Net: NetName=P0V Pin=P9-1
+Removed Pin From Net: NetName=N0V Pin=P9-2
+Change Component Footprint: Designator=P1 Old Footprint=CON2 New Footprint=CON2 5.08
+Change Component Footprint: Designator=P2 Old Footprint=CON2 New Footprint=CON2 5.08
+Change Component Footprint: Designator=P3 Old Footprint=CON2 New Footprint=CON2 5.08
+Change Component Footprint: Designator=P4 Old Footprint=CON2 New Footprint=CON2 5.08
+Change Component Footprint: Designator=P5 Old Footprint=CON2 New Footprint=CON2 5.08
+Change Component Footprint: Designator=P6 Old Footprint=CON2 New Footprint=CON2 5.08
+Change Component Footprint: Designator=P7 Old Footprint=CON2 New Footprint=CON2 5.08
+Change Component Footprint: Designator=P8 Old Footprint=CON2 New Footprint=CON2 5.08
+Change Component Footprint: Designator=P9 Old Footprint=CON2 New Footprint=CON2 5.08
+Change Component Footprint: Designator=C1 Old Footprint=CP2/5 New Footprint=RB7.6-15
+Change Component Footprint: Designator=C4 Old Footprint=CP2/5 New Footprint=RB7.6-15
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C5 NewDesignator=C7
+Change Component Designator: OldDesignator=C6 NewDesignator=C4
+Change Component Designator: OldDesignator=C7 NewDesignator=C5
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=DP3 Pin=P6-2
+Added Pin To Net: NetName=P0V Pin=P7-1
+Added Pin To Net: NetName=N0V Pin=P7-2
+Added Pin To Net: NetName=DP1 Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=TC1 Pin=P9-1
+Added Pin To Net: NetName=RC1 Pin=P9-2

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=NetC3_2 Pin=U1-5
+Removed Pin From Net: NetName=N01 Pin=U1-6
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-7
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=NetC4_2 Pin=U2-5
+Removed Pin From Net: NetName=N02 Pin=U2-6
+Removed Pin From Net: NetName=NetC2_1 Pin=U2-7
+Removed Pin From Net: NetName=NetC2_1 Pin=U2-8
+Change Component DesignItemId : Designator=U1 Old DesignItemId=ASA01 New DesignItemId=WRB-YMD-6W
+Change Component DesignItemId : Designator=U2 Old DesignItemId=ASA01 New DesignItemId=WRB-YMD-6W
+Change Component Footprint: Designator=U1 Old Footprint=ASA New Footprint=WRB-YMD-6W
+Change Component Footprint: Designator=U2 Old Footprint=ASA New Footprint=WRB-YMD-6W
+Change Component Comment : Designator=U1 Old Comment=ASA01xx New Comment=WRx-YMD-6W
+Change Component Comment : Designator=U2 Old Comment=ASA01xx New Comment=WRx-YMD-6W
+Added Pin To Net: NetName=NetC1_1 Pin=U1-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-3
+Added Pin To Net: NetName=N01 Pin=U1-5
+Added Pin To Net: NetName=NetC2_1 Pin=U2-2
+Added Pin To Net: NetName=NetC4_2 Pin=U2-3
+Added Pin To Net: NetName=N02 Pin=U2-5

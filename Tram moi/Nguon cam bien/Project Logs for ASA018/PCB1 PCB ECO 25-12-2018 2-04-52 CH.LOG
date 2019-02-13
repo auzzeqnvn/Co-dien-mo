@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=N01 Pin=U1-4
+Removed Pin From Net: NetName=N01 Pin=U2-4
+Change Component DesignItemId : Designator=U1 Old DesignItemId=ASA00 New DesignItemId=ASA01
+Change Component DesignItemId : Designator=U2 Old DesignItemId=ASA00 New DesignItemId=ASA01
+Change Component Footprint: Designator=U1 Old Footprint=ASA Series New Footprint=ASA
+Change Component Footprint: Designator=U2 Old Footprint=ASA Series New Footprint=ASA
+Change Component Comment : Designator=U1 Old Comment=ASA00 New Comment=ASA01xx
+Change Component Comment : Designator=U2 Old Comment=ASA00 New Comment=ASA01xx
+Added Pin To Net: NetName=N01 Pin=U1-6
+Added Pin To Net: NetName=N01 Pin=U2-6

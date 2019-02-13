@@ -1,0 +1,36 @@
+Added Component: Designator=JP1(CON2)
+Added Component: Designator=JP2(CON2)
+Added Component: Designator=P2(HDR2X14)
+Added Net: Name=LINE1+
+Added Net: Name=LINE1-
+Added Net: Name=LINE+
+Added Net: Name=NetD1_1
+Added Net: Name=NetD1_2
+Added Net: Name=NetD2_2
+Added Net: Name=NetD3_2
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=P2-1
+Added Pin To Net: NetName=NetJP1_1 Pin=P2-2
+Added Pin To Net: NetName=NetJP1_1 Pin=P2-3
+Added Pin To Net: NetName=NetJP1_1 Pin=P2-4
+Added Net: Name=NetJP1_1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=P2-9
+Added Pin To Net: NetName=NetJP1_2 Pin=P2-10
+Added Pin To Net: NetName=NetJP1_2 Pin=P2-11
+Added Pin To Net: NetName=NetJP1_2 Pin=P2-12
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=P2-17
+Added Pin To Net: NetName=NetJP2_1 Pin=P2-18
+Added Pin To Net: NetName=NetJP2_1 Pin=P2-19
+Added Pin To Net: NetName=NetJP2_1 Pin=P2-20
+Added Net: Name=NetJP2_1
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_2 Pin=P2-25
+Added Pin To Net: NetName=NetJP2_2 Pin=P2-26
+Added Pin To Net: NetName=NetJP2_2 Pin=P2-27
+Added Pin To Net: NetName=NetJP2_2 Pin=P2-28
+Added Net: Name=NetJP2_2
+Added Class: Name=Sheet1
