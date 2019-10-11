@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C5 Old Footprint=CN1.5 New Footprint=CN3
+Change component parameters: Designator = "C5"; Footprint = "CN3"; UniqueID = "\FVIWLIWV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Copyright"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,047uF"; VariantName = "[No Variations]"
