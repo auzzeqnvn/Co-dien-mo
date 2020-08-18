@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=V_in Pin=IC2-1
+Removed Pin From Net: NetName=12V Pin=R1-2
+Change component parameters: Designator = "IC2"; Footprint = "QTO-220"; UniqueID = "\EXLLPLXQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "LM7808"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1"; Footprint = "QTO-92"; UniqueID = "\NKNZNUCY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "C2383"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=Led1(Led don)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Led2(Led don)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R2W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R2W - 47"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=Led1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=V_in Pin=R3-1
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-1
+Added Pin To Net: NetName=NetIC2_1 Pin=R3-2
+Added Net: Name=NetIC2_1
+Added Pin To Net: NetName=NetLed1_2 Pin=Led1-2
+Added Pin To Net: NetName=NetLed1_2 Pin=R1-2
+Added Net: Name=NetLed1_2
+Added Pin To Net: NetName=NetLed2_1 Pin=Led2-1
+Added Pin To Net: NetName=NetLed2_1 Pin=Relay1-2
+Added Net: Name=NetLed2_1
+Added Pin To Net: NetName=NetLed2_2 Pin=Led2-2
+Added Pin To Net: NetName=NetLed2_2 Pin=R2-2
+Added Net: Name=NetLed2_2
+Added Member To Class: ClassName=Sheet1 Member=Component Led1 SAC
+Added Member To Class: ClassName=Sheet1 Member=Component Led2 FULL
+Added Member To Class: ClassName=Sheet1 Member=Component R2 2K
+Added Member To Class: ClassName=Sheet1 Member=Component R3 5/2W
