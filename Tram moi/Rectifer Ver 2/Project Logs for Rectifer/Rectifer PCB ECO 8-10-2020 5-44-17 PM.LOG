@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=NetC3_2 Pin=C3-2
+Removed Pin From Net: NetName=NetC3_2 Pin=D2-1
+Removed Pin From Net: NetName=Netdiode1_1 Pin=diode1-1
+Removed Pin From Net: NetName=Netdiode1_2 Pin=diode1-2
+Removed Pin From Net: NetName=DP1 Pin=F2-1
+Removed Pin From Net: NetName=NetF2_2 Pin=F2-2
+Removed Pin From Net: NetName=NetF2_2 Pin=P8-1
+Removed Pin From Net: NetName=Netdiode1_1 Pin=Q1-1
+Removed Pin From Net: NetName=NetC3_2 Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=DP12/2 Pin=R1-1
+Removed Pin From Net: NetName=Netdiode1_2 Pin=R1-2
+Removed Pin From Net: NetName=NetD2_2 Pin=R2-1
+Removed Pin From Net: NetName=DP12/2 Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=NetC3_2 Pin=R3-2
+Removed Pin From Net: NetName=DP23 Pin=Relay1-1
+Removed Pin From Net: NetName=DP12/2 Pin=Relay1-3
+Removed Pin From Net: NetName=Netdiode1_2 Pin=Relay1-4
+Removed Member From Class: ClassName=Sheet1 Member=diode1
+Removed Member From Class: ClassName=Sheet1 Member=F2
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=SM-1206
+Change Component Footprint: Designator=C3 Old Footprint=CN1.5 New Footprint=CP1/2
+Change Component Footprint: Designator=D2 Old Footprint=DZ1A New Footprint=D5A
+Change Component Footprint: Designator=Q1 Old Footprint=Mosfet New Footprint=QTO-92
+Change Component Comment : Designator=C3 Old Comment=104 New Comment=10uF
+Change Component Comment : Designator=D2 Old Comment=D Zener New Comment=1N5408
+Change Component Comment : Designator=Q1 Old Comment=MOSFET-N New Comment=C2383
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=1k
+Change component parameters: Designator = "D2" ("D2"); Footprint = "DZ1A"; UniqueID = "\PFBZMFPJ" ("\PFBZMFPJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "1N5408"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "AXIAL-0.3"; UniqueID = "\FRMUTUMX" ("\FRMUTUMX")
+Change component parameters (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "Mosfet"; UniqueID = "\NKNZNUCY" ("\NKNZNUCY")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CN1.5"; UniqueID = "\FAESBKBI" ("\FAESBKBI")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "10 => 220uF/6,3V/10V - 10uF => 100uF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "0,1uF => 33uF/50V - 10uF => 22uF/63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "0,47uF => 10uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(QTO-220)
+Add component (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(DIP8/W0.3)
+Add component (AddParameter): Name = "Value"; Value = "LM555"; VariantName = "[No Variations]"
+Added Component: Designator=VH(VR)
+Add component (AddParameter): Name = "Value"; Value = "VR 10K"; VariantName = "[No Variations]"
+Added Component: Designator=VL(VR)
+Add component (AddParameter): Name = "Value"; Value = "VR 10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=DP1 Pin=D2-1
+Added Pin To Net: NetName=DP1 Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=IC2-2
+Added Pin To Net: NetName=GND Pin=IC3-1
+Added Pin To Net: NetName=NetF2_2 Pin=IC3-3
+Added Pin To Net: NetName=Netdiode1_2 Pin=IC3-6
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=Netdiode1_1 Pin=Q1-2
+Added Pin To Net: NetName=NetF2_2 Pin=Q1-3
+Added Pin To Net: NetName=NetC3_2 Pin=R1-1
+Added Pin To Net: NetName=NetD2_2 Pin=Relay1-1
+Added Pin To Net: NetName=NetC3_2 Pin=Relay1-4
+Added Pin To Net: NetName=Netdiode1_2 Pin=VH-2
+Added Pin To Net: NetName=GND Pin=VH-3
+Added Pin To Net: NetName=GND Pin=VL-3
+Change Net Name : Old Net Name=DP1 New Net Name=V_in
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetR1_1
+Change Net Name : Old Net Name=Netdiode1_1 New Net Name=NetQ1_2
+Change Net Name : Old Net Name=Netdiode1_2 New Net Name=NetIC3_6
+Change Net Name : Old Net Name=NetF2_2 New Net Name=NetIC3_3
+Added Pin To Net: NetName=12V Pin=C3-1
+Added Pin To Net: NetName=12V Pin=IC2-3
+Added Pin To Net: NetName=12V Pin=IC3-8
+Added Pin To Net: NetName=12V Pin=R1-2
+Added Net: Name=12V
+Added Pin To Net: NetName=DP1 Pin=P8-1
+Added Pin To Net: NetName=DP1 Pin=Relay1-3
+Added Pin To Net: NetName=DP1 Pin=VH-1
+Added Pin To Net: NetName=DP1 Pin=VL-1
+Added Net: Name=DP1
+Added Pin To Net: NetName=NetIC3_2 Pin=IC3-2
+Added Pin To Net: NetName=NetIC3_2 Pin=VL-2
+Added Net: Name=NetIC3_2
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 LM7812
+Added Member To Class: ClassName=Sheet1 Member=Component IC3 LM555
+Added Member To Class: ClassName=Sheet1 Member=Component VH 10K
+Added Member To Class: ClassName=Sheet1 Member=Component VL 10K
