@@ -1,0 +1,14 @@
+mạch lần 3:
+- Mạch Rectifer:
+	+ Sửa khối sạc acquy điều khiển sạc/ngắt sạc, thêm led chỉ thị sạc/đầy.
+	+ Diode chỉnh lưu loại nhôm
+	+ Tụ chỉnh lưu 4700uF/50V.
+	+ Cầu chì nạp 2A
+- Mạch Relay 01:
+	+ Sửa relay
+	+ Sửa phần điều khiển relay
+	+ Sửa trở 0805 -> Throughthole 1/4W
+	+ Sửa chân Jum hàn thành Jum cắm.
+- Mạch nguồn cảm biến:
+	+ Sửa diode zener 18V/5W
+	

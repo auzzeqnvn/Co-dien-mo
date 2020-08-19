@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=NetP6_2 Pin=RELAY1-2
+Removed Pin From Net: NetName=NetP5_3 Pin=RELAY1-3
+Removed Pin From Net: NetName=NetP6_3 Pin=RELAY2-2
+Removed Pin From Net: NetName=NetP7_3 Pin=RELAY2-3
+Removed Pin From Net: NetName=NetP9_2 Pin=RELAY3-2
+Removed Pin From Net: NetName=NetP8_3 Pin=RELAY3-3
+Removed Pin From Net: NetName=NetP9_3 Pin=RELAY4-2
+Removed Pin From Net: NetName=NetP10_3 Pin=RELAY4-3
+Removed Pin From Net: NetName=NetP12_2 Pin=RELAY5-2
+Removed Pin From Net: NetName=NetP11_3 Pin=RELAY5-3
+Removed Pin From Net: NetName=NetP12_3 Pin=RELAY6-2
+Removed Pin From Net: NetName=NetP13_3 Pin=RELAY6-3
+Removed Pin From Net: NetName=NetP18_2 Pin=RELAY7-2
+Removed Pin From Net: NetName=NetP17_3 Pin=RELAY7-3
+Removed Pin From Net: NetName=NetP18_3 Pin=RELAY8-2
+Removed Pin From Net: NetName=NetP19_3 Pin=RELAY8-3
+Removed Pin From Net: NetName=NetP21_2 Pin=RELAY9-2
+Removed Pin From Net: NetName=NetP20_3 Pin=RELAY9-3
+Removed Pin From Net: NetName=NetP21_3 Pin=RELAY10-2
+Removed Pin From Net: NetName=NetP22_3 Pin=RELAY10-3
+Removed Pin From Net: NetName=NetP24_2 Pin=RELAY11-2
+Removed Pin From Net: NetName=NetP23_3 Pin=RELAY11-3
+Removed Pin From Net: NetName=NetP24_3 Pin=RELAY12-2
+Removed Pin From Net: NetName=NetP25_3 Pin=RELAY12-3
+Removed Pin From Net: NetName=NetP29_2 Pin=RELAY13-2
+Removed Pin From Net: NetName=NetP28_3 Pin=RELAY13-3
+Removed Pin From Net: NetName=NetP29_3 Pin=RELAY14-2
+Removed Pin From Net: NetName=NetP30_3 Pin=RELAY14-3
+Removed Pin From Net: NetName=NetP32_2 Pin=RELAY15-2
+Removed Pin From Net: NetName=NetP31_3 Pin=RELAY15-3
+Removed Pin From Net: NetName=NetP32_3 Pin=RELAY16-2
+Removed Pin From Net: NetName=NetP33_3 Pin=RELAY16-3
+Change Component Comment : Designator=RELAY1 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY2 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY3 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY4 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY5 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY6 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY7 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY8 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY9 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY10 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY11 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY12 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY13 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY14 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY15 Old Comment=RY12W-K New Comment=G6S-2
+Change Component Comment : Designator=RELAY16 Old Comment=RY12W-K New Comment=G6S-2
+Added Pin To Net: NetName=NetP5_3 Pin=RELAY1-2
+Added Pin To Net: NetName=NetP6_2 Pin=RELAY1-3
+Added Pin To Net: NetName=NetP7_3 Pin=RELAY2-2
+Added Pin To Net: NetName=NetP6_3 Pin=RELAY2-3
+Added Pin To Net: NetName=NetP8_3 Pin=RELAY3-2
+Added Pin To Net: NetName=NetP9_2 Pin=RELAY3-3
+Added Pin To Net: NetName=NetP10_3 Pin=RELAY4-2
+Added Pin To Net: NetName=NetP9_3 Pin=RELAY4-3
+Added Pin To Net: NetName=NetP11_3 Pin=RELAY5-2
+Added Pin To Net: NetName=NetP12_2 Pin=RELAY5-3
+Added Pin To Net: NetName=NetP13_3 Pin=RELAY6-2
+Added Pin To Net: NetName=NetP12_3 Pin=RELAY6-3
+Added Pin To Net: NetName=NetP17_3 Pin=RELAY7-2
+Added Pin To Net: NetName=NetP18_2 Pin=RELAY7-3
+Added Pin To Net: NetName=NetP19_3 Pin=RELAY8-2
+Added Pin To Net: NetName=NetP18_3 Pin=RELAY8-3
+Added Pin To Net: NetName=NetP20_3 Pin=RELAY9-2
+Added Pin To Net: NetName=NetP21_2 Pin=RELAY9-3
+Added Pin To Net: NetName=NetP22_3 Pin=RELAY10-2
+Added Pin To Net: NetName=NetP21_3 Pin=RELAY10-3
+Added Pin To Net: NetName=NetP23_3 Pin=RELAY11-2
+Added Pin To Net: NetName=NetP24_2 Pin=RELAY11-3
+Added Pin To Net: NetName=NetP25_3 Pin=RELAY12-2
+Added Pin To Net: NetName=NetP24_3 Pin=RELAY12-3
+Added Pin To Net: NetName=NetP28_3 Pin=RELAY13-2
+Added Pin To Net: NetName=NetP29_2 Pin=RELAY13-3
+Added Pin To Net: NetName=NetP30_3 Pin=RELAY14-2
+Added Pin To Net: NetName=NetP29_3 Pin=RELAY14-3
+Added Pin To Net: NetName=NetP31_3 Pin=RELAY15-2
+Added Pin To Net: NetName=NetP32_2 Pin=RELAY15-3
+Added Pin To Net: NetName=NetP33_3 Pin=RELAY16-2
+Added Pin To Net: NetName=NetP32_3 Pin=RELAY16-3
