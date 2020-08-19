@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=V_in Pin=D4-1
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "QTO-220"; UniqueID = "\EXLLPLXQ" ("\EXLLPLXQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "QTO-92"; UniqueID = "\NKNZNUCY" ("\NKNZNUCY")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=F2(Fuse)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_in Pin=F2-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=F2-1
+Added Net: Name=NetD4_1
+Added Member To Class: ClassName=Sheet1 Member=Component F2 F2A
