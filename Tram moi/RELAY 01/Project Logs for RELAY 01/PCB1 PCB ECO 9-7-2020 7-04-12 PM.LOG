@@ -1,0 +1,112 @@
+Added Component: Designator=Relay1(G6S-2)
+Added Component: Designator=Relay2(G6S-2)
+Added Component: Designator=Relay3(G6S-2)
+Added Component: Designator=Relay4(G6S-2)
+Added Component: Designator=Relay5(G6S-2)
+Added Component: Designator=Relay6(G6S-2)
+Added Component: Designator=Relay7(G6S-2)
+Added Component: Designator=Relay8(G6S-2)
+Added Component: Designator=Relay9(G6S-2)
+Added Component: Designator=Relay10(G6S-2)
+Added Component: Designator=Relay11(G6S-2)
+Added Component: Designator=Relay12(G6S-2)
+Added Component: Designator=Relay13(G6S-2)
+Added Component: Designator=Relay14(G6S-2)
+Added Component: Designator=Relay15(G6S-2)
+Added Component: Designator=Relay16(G6S-2)
+Added Pin To Net: NetName=NetRELAY1_1 Pin=Relay1-1
+Added Pin To Net: NetName=NetP5_1 Pin=Relay1-2
+Added Pin To Net: NetName=NetP6_2 Pin=Relay1-3
+Added Pin To Net: NetName=NetP5_3 Pin=Relay1-4
+Added Pin To Net: NetName=VCC Pin=Relay1-8
+Added Pin To Net: NetName=NetRELAY2_1 Pin=Relay2-1
+Added Pin To Net: NetName=NetP7_3 Pin=Relay2-2
+Added Pin To Net: NetName=NetP6_3 Pin=Relay2-3
+Added Pin To Net: NetName=NetP7_1 Pin=Relay2-4
+Added Pin To Net: NetName=VCC Pin=Relay2-8
+Added Pin To Net: NetName=NetRELAY3_1 Pin=Relay3-1
+Added Pin To Net: NetName=NetP8_1 Pin=Relay3-2
+Added Pin To Net: NetName=NetP9_2 Pin=Relay3-3
+Added Pin To Net: NetName=NetP8_3 Pin=Relay3-4
+Added Pin To Net: NetName=VCC Pin=Relay3-8
+Added Pin To Net: NetName=NetRELAY4_1 Pin=Relay4-1
+Added Pin To Net: NetName=NetP10_3 Pin=Relay4-2
+Added Pin To Net: NetName=NetP9_3 Pin=Relay4-3
+Added Pin To Net: NetName=NetP10_1 Pin=Relay4-4
+Added Pin To Net: NetName=VCC Pin=Relay4-8
+Added Pin To Net: NetName=NetRELAY5_1 Pin=Relay5-1
+Added Pin To Net: NetName=NetP11_1 Pin=Relay5-2
+Added Pin To Net: NetName=NetP12_2 Pin=Relay5-3
+Added Pin To Net: NetName=NetP11_3 Pin=Relay5-4
+Added Pin To Net: NetName=VCC Pin=Relay5-8
+Added Pin To Net: NetName=NetRELAY6_1 Pin=Relay6-1
+Added Pin To Net: NetName=NetP13_3 Pin=Relay6-2
+Added Pin To Net: NetName=NetP12_3 Pin=Relay6-3
+Added Pin To Net: NetName=NetP13_1 Pin=Relay6-4
+Added Pin To Net: NetName=VCC Pin=Relay6-8
+Added Pin To Net: NetName=NetRELAY7_1 Pin=Relay7-1
+Added Pin To Net: NetName=NetP17_1 Pin=Relay7-2
+Added Pin To Net: NetName=NetP18_2 Pin=Relay7-3
+Added Pin To Net: NetName=NetP17_3 Pin=Relay7-4
+Added Pin To Net: NetName=VCC Pin=Relay7-8
+Added Pin To Net: NetName=NetRELAY8_1 Pin=Relay8-1
+Added Pin To Net: NetName=NetP19_3 Pin=Relay8-2
+Added Pin To Net: NetName=NetP18_3 Pin=Relay8-3
+Added Pin To Net: NetName=NetP19_1 Pin=Relay8-4
+Added Pin To Net: NetName=VCC Pin=Relay8-8
+Added Pin To Net: NetName=NetRELAY9_1 Pin=Relay9-1
+Added Pin To Net: NetName=NetP20_1 Pin=Relay9-2
+Added Pin To Net: NetName=NetP21_2 Pin=Relay9-3
+Added Pin To Net: NetName=NetP20_3 Pin=Relay9-4
+Added Pin To Net: NetName=VCC Pin=Relay9-8
+Added Pin To Net: NetName=NetRELAY10_1 Pin=Relay10-1
+Added Pin To Net: NetName=NetP22_3 Pin=Relay10-2
+Added Pin To Net: NetName=NetP21_3 Pin=Relay10-3
+Added Pin To Net: NetName=NetP22_1 Pin=Relay10-4
+Added Pin To Net: NetName=VCC Pin=Relay10-8
+Added Pin To Net: NetName=NetRELAY11_1 Pin=Relay11-1
+Added Pin To Net: NetName=NetP23_1 Pin=Relay11-2
+Added Pin To Net: NetName=NetP24_2 Pin=Relay11-3
+Added Pin To Net: NetName=NetP23_3 Pin=Relay11-4
+Added Pin To Net: NetName=VCC Pin=Relay11-8
+Added Pin To Net: NetName=NetRELAY12_1 Pin=Relay12-1
+Added Pin To Net: NetName=NetP25_3 Pin=Relay12-2
+Added Pin To Net: NetName=NetP24_3 Pin=Relay12-3
+Added Pin To Net: NetName=NetP25_1 Pin=Relay12-4
+Added Pin To Net: NetName=VCC Pin=Relay12-8
+Added Pin To Net: NetName=NetRELAY13_1 Pin=Relay13-1
+Added Pin To Net: NetName=NetP28_1 Pin=Relay13-2
+Added Pin To Net: NetName=NetP29_2 Pin=Relay13-3
+Added Pin To Net: NetName=NetP28_3 Pin=Relay13-4
+Added Pin To Net: NetName=VCC Pin=Relay13-8
+Added Pin To Net: NetName=NetRELAY14_1 Pin=Relay14-1
+Added Pin To Net: NetName=NetP30_3 Pin=Relay14-2
+Added Pin To Net: NetName=NetP29_3 Pin=Relay14-3
+Added Pin To Net: NetName=NetP30_1 Pin=Relay14-4
+Added Pin To Net: NetName=VCC Pin=Relay14-8
+Added Pin To Net: NetName=NetRELAY15_1 Pin=Relay15-1
+Added Pin To Net: NetName=NetP31_1 Pin=Relay15-2
+Added Pin To Net: NetName=NetP32_2 Pin=Relay15-3
+Added Pin To Net: NetName=NetP31_3 Pin=Relay15-4
+Added Pin To Net: NetName=VCC Pin=Relay15-8
+Added Pin To Net: NetName=NetRELAY16_1 Pin=Relay16-1
+Added Pin To Net: NetName=NetP33_3 Pin=Relay16-2
+Added Pin To Net: NetName=NetP32_3 Pin=Relay16-3
+Added Pin To Net: NetName=NetP33_1 Pin=Relay16-4
+Added Pin To Net: NetName=VCC Pin=Relay16-8
+Added Member To Class: ClassName=Sheet1 Member=Component Relay1 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay2 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay3 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay4 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay5 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay6 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay7 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay8 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay9 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay10 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay11 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay12 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay13 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay14 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay15 G6S-2
+Added Member To Class: ClassName=Sheet1 Member=Component Relay16 G6S-2
